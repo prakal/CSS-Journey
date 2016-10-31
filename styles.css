@@ -1,0 +1,17 @@
+#main {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+}
+.left {
+	width: 400px;
+}
+.right {
+	width: 400px;
+}
+/* MEDIA QUERIES */
+/*@media screen and (min-width: 1000px ) {
+  #left { margin-right: 19.5em; }
+
+  #right { position: absolute; right: 0; margin-right: 10%}   
+}*/
